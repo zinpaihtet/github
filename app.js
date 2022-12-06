@@ -1,5 +1,8 @@
 // i am trying to collobrate with the team members
 
+// This is from main I can see that
+// ********************************
+// ********************************
 
 const container = document.getElementById('trigger_container')
 const navTwo = document.getElementsByClassName('nav2')
