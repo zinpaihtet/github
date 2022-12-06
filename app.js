@@ -46,3 +46,6 @@ var swiper = new Swiper(".swiper", {
     //   prevEl: ".prev_arr",
     // },
   });
+
+
+// some content from ronalde
